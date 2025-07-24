@@ -1,12 +1,15 @@
-Conhecendo a aplicação em teste
+**Conhecendo a aplicação em teste**
+
 Antes de começarmos a configurar o Cypress e escrever scripts de teste automatizados, deixe-me apresentar a aplicação que testaremos ao longo deste curso.
 
 A aplicação se chama Central de Atendimento ao Cliente TAT - CAC TAT - e foi desenvolvida usando HTML, CSS e JavaScript.
 
-Funcionalidades da aplicação
+**Funcionalidades da aplicação**
+
 A Aplicação CAC TAT simula o envio de mensagens para uma central de atendimento ao cliente.
 
-Campos obrigatórios
+**Campos obrigatórios**
+
 Os seguintes campos são obrigatórios e devem ser preenchidos antes do envio do formulário:
 
 Nome (campo do tipo de texto)
@@ -15,7 +18,6 @@ E-mail (campo do tipo e-mail, com validação)
 Como podemos te ajudar? Algum elogio ou feedback para nós? (campo de área de texto)
 Outros campos
 Além dos campos obrigatórios, o “cliente” pode inserir:
-
 Telefone (campo do tipo número)
 Produto (campo suspenso com as opções: Blog, Cursos, Mentoria ou YouTube)
 Tipo de atendimento (campos do tipo radio com as opções: Ajuda, Elogio ou Feedback)
